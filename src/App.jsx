@@ -16,7 +16,7 @@ const App = () => {
         "id": 1,
         "title": "Apple iPhone 13 (128GB)",
         "description": "Sleek design, powerful performance, and innovative features redefine the smartphone experience.",
-        "price": 59900,
+        "price": 52090,
         "color": "Starlight",
         "discountPercentage": 13,
         "rating": 4.6,
